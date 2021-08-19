@@ -1,0 +1,14 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+.warnDecoration {
+  background: hsl(51, 50%, 76%);
+  width: max-content;
+  color: black;
+}
+.errorDecoration {
+  background: hsl(12, 95%, 76%);
+  width: 100% !important;
+}
